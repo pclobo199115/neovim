@@ -7,4 +7,4 @@ source ~/.config/nvim/automation.vim
 source ~/.config/nvim/keybinds.vim
 
 " Load plugin settings
-source ~/.config/nvim/coc.vim
+"source ~/.config/nvim/coc.vim

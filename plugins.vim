@@ -12,7 +12,7 @@ Plug 'lilydjwg/colorizer'				            " Color rgb values
 Plug 'mhinz/vim-startify'				            " Recent menu on startup
 Plug 'tomasiser/vim-code-dark'                      " VSCode theme
 Plug 'jiangmiao/auto-pairs'				            " Support for auto-pairs
-Plug 'neoclide/coc.nvim', {'branch': 'release'}     " Intellisense
+"Plug 'neoclide/coc.nvim', {'branch': 'release'}     " Intellisense
 
 call plug#end()
 
