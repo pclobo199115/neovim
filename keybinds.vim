@@ -1,1 +1,1 @@
-map <leader>r :!compiler "%"<CR><CR>
+map <leader>c :!compiler "%"<CR><CR>
